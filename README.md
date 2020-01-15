@@ -1,4 +1,6 @@
 # ramosisw.github.io
+[![HitCount](http://hits.dwyl.io/ramosisw/ramosiswgithubcom.svg)](http://hits.dwyl.io/ramosisw/ramosiswgithubcom)
+
 ## About Me
 * Full Stack Dev
 * Open-Source & Photography Enthusiast
