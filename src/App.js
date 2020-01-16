@@ -30,6 +30,9 @@ function App() {
         <a target="_blank" rel="noopener noreferrer" href="https://dev.to/ramosisw"><FontAwesomeIcon icon={faDev} /></a>
         <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@ramosisw"><FontAwesomeIcon icon={faMedium} /></a>
       </div>
+      <div align="center">
+        <img src="http://hits.dwyl.io/ramosiswgithubcom.svg"/>
+      </div>
     </main>
   );
 }
