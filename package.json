@@ -4,16 +4,13 @@
   "homepage": "https://ramosisw.github.io",
   "private": true,
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.26",
-    "@fortawesome/free-brands-svg-icons": "^5.12.0",
-    "@fortawesome/react-fontawesome": "^0.1.8",
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.4.0",
-    "@testing-library/user-event": "^7.2.1",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "react-scripts": "3.3.0",
-    "react-typing-animation": "^1.6.2"
+    "@fortawesome/fontawesome-svg-core": "6.7.2",
+    "@fortawesome/free-brands-svg-icons": "6.7.2",
+    "@fortawesome/react-fontawesome": "0.2.2",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-scripts": "5.0.1",
+    "react-type-animation": "3.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
