@@ -1,5 +1,5 @@
-# ramosisw.github.io
-[![HitCount](http://hits.dwyl.io/ramosisw/ramosiswgithubcom.svg)](http://hits.dwyl.io/ramosisw/ramosiswgithubcom)
+# julioramos0.github.io
+[![HitCount](http://hits.dwyl.io/julioramos0/julioramos0githubcom.svg)](http://hits.dwyl.io/julioramos0/julioramos0githubcom)
 
 ## About Me
 * Full Stack Dev
@@ -9,7 +9,7 @@
 ## Courses I've taken
 * [Curso Visual Studio 2017 desarrollo web](courses/Curso_Visual-Studio-2017-desarrollo-web.pdf)
 
-Please Visit [https://ramosisw.github.io](https://ramosisw.github.io)
+Please Visit [https://julioramos0.github.io](https://julioramos0.github.io)
 
 ## About Repo
 
