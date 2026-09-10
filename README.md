@@ -1,6 +1,4 @@
-# julioramos0.github.io
-[![HitCount](http://hits.dwyl.io/julioramos0/julioramos0githubcom.svg)](http://hits.dwyl.io/julioramos0/julioramos0githubcom)
-
+# ramosisw.github.io
 ## About Me
 * Full Stack Dev
 * Open-Source & Photography Enthusiast
@@ -9,7 +7,7 @@
 ## Courses I've taken
 * [Curso Visual Studio 2017 desarrollo web](courses/Curso_Visual-Studio-2017-desarrollo-web.pdf)
 
-Please Visit [https://julioramos0.github.io](https://julioramos0.github.io)
+Please Visit [https://ramosisw.github.io](https://ramosisw.github.io)
 
 ## About Repo
 

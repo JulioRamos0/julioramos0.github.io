@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  web:
+    image: nginx:alpine
+    container_name: julioramos0_github_io_nginx
+    ports:
+      - "8012:80"
+    volumes:
+      - ./:/usr/share/nginx/html:ro
